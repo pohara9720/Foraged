@@ -26,9 +26,9 @@ Run app on port 8080
 
 2. Get React App running
 
-Navigate back to root and into front-end dir
+Navigate back to root and into react-app dir
 
-`cd ../front-end`
+`cd ../react-app`
 
 Install deps
 
